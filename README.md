@@ -1,2 +1,2 @@
-# pakhipant
-Pakhi's Web site
+# Pakhi Pant's Web Page
+Pakhi's educational web page
