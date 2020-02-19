@@ -1,2 +1,2 @@
-# Pakhi Pant's Web Page
-Pakhi's educational web page
+# Pakhi Pant's Learning 
+Pakhi Learning Journey
