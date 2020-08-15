@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Me](\data\images\ppj_pic.jpg){:height="200px"}
+![Me](../data/images/ppj_pic.jpg){:height="200px"}
 
 Hello Guest, Welcome! 
 
