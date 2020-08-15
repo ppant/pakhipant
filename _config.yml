@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "/pakhipant/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/pakhipant/blog" # the subpath of your site, e.g. /blog
 theme: jekyll-theme-time-machine
 title: Pakhi Pant
 description: >- 
