@@ -18,7 +18,7 @@ And happy playing.
 
 [Code](https://scratch.mit.edu/projects/420038365)
 
-![Code](/pakhipant/data/images/popping_game_code_screen.png){:width="800px"}
+![](/data/images/popping_game_code_screen.png){:width="800px"}
 
 
 [Link to my game](https://scratch.mit.edu/projects/420038365)
