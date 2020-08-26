@@ -21,12 +21,18 @@ And happy playing.
 ![](/pakhipant/data/images/popping_game_code_screen.png){:width="800px"}
 
 
-[Link to my game](https://scratch.mit.edu/projects/420038365)
+[click hear to play my game](https://scratch.mit.edu/projects/420038365)
 
 <iframe src="https://scratch.mit.edu/projects/420038365/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
-
-
 Thank you!!!
 
+
+
+
+**Credits:**
+
+[Scratch tutorial](https://scratch.mit.edu)
+
+My father helped me to publish this post and code on [github](https://github.com/ppant/pakhipant)..he was telling this is a cool place! 
