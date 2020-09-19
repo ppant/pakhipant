@@ -7,7 +7,7 @@ layout: post
 Hi,
 Today,I have written a poem to tell u guys!
 
-![](/data/images/Caterpillar-poem.jpg){:width="800px"}
+![](/pakhipant/data/images/Caterpillar-poem.jpg){:width="800px"}
 
 here I have put some animation....
 
