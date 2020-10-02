@@ -6,7 +6,10 @@
     <main>
       <article>
         {{ content }}
-      </article>	
+      </article>
+	  <article>
+      {% include disqus_comments.html %}
+      </article>
       {% include footer.html %}
     </main>
   </body>
