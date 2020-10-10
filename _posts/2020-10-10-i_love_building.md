@@ -1,5 +1,5 @@
 ---
-title: 'I love building'
+title: 'I love building Lego friends'
 date: 2020-10-10
 author: Pakhi
 layout: post
@@ -9,9 +9,20 @@ Hi,
 See what I have made with LEGO!!
 
 ![](/data/images/lego_building_1.jpg){:width="800px"}
+
+In this image,I have made a house, car, waterboat, people and more things.
+
 ![](/data/images/lego_building_3.jpg){:width="800px"}
+
+In this image,I have made a treehouse,birds nest, book, cups, pizza and more things.
+
 ![](/data/images/lego_building_4.jpg){:width="800px"}
+
+In this image,I have made a moving house, people and a lot more
+
 ![](/data/images/lego_building_2.jpg){:width="800px"}
+
+And all, I showed you.
 
 <!--- This is needed for github pakhipant is repo inside pradeeppant so path needs to be adjusted
 ![](/pakhipant/data/images/lego_building_1.jpg){:width="800px"}
