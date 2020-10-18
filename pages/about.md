@@ -17,6 +17,7 @@ I will take you through my learning ride.
 Some of the sites I use for learning and fun.
 
 * [Scrath](https://scratch.mit.edu/)
+* [Code.org](http://www.code.org/)
 * [flowgorithm](http://www.flowgorithm.org/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Chess](https://www.chesskid.com/)
