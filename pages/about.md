@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello Guest, Welcome! 
 
-My name is Pakhi, I am 10 years old, class IV student. My hobbies are building Lego, Making Craft, Cycling and Cricket. I love to play outdoors.
+My name is Pakhi, I am 9 years old, class IV student. My hobbies are building Lego, Making Craft, Cycling and Cricket. I love to play outdoors.
 
 I am learning to write computer programs from [my father](https://pradeeppant.com/). I love to spend time on scratch. I like scratch because I can play games. The best part in scratch is that all the games are made of Programming. In scratch we can make the games as well .
 
