@@ -9,7 +9,7 @@ Hi,
 
 ![](/data/images/earth-revolution.jpg){:width="800px"}
 
-This month, I about how earth rotates around its own axis (rotation) and how earth moves around the Sun(revolution)
+This month, I learnt about how earth rotates around its own axis (rotation) and how earth moves around the Sun (revolution)
 
 Earth completes one rotation in 24 hours changing day and night.
 
