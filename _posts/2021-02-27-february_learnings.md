@@ -9,7 +9,13 @@ Hi,
 
 ![](/data/images/earth-revolution.jpg){:width="800px"}
 
-This month, I have learnt how earth moves around its own axis by using [flintobox](https://flintobox.com/). I am learning using flinto since I was very small 2-3 years old, I really love them.
-  
+This month, I about how earth rotates around its own axis (rotation) and how earth moves around the Sun(revolution)
+
+Earth completes one rotation in 24 hours changing day and night.
+
+One revolution of earth around the Sun takes 365 days changing months and seasons. 
+
+I leant this by using [flintobox](https://flintobox.com/).
+ 
 
 Thank you!
