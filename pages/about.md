@@ -30,7 +30,7 @@ Some of the sites I use for learning and fun.
 * Learning HTML and CSS to make web page
 
 Thanks for visiting.
-
+Aug, 2020
 
 
 
