@@ -1,5 +1,5 @@
 ---
-title: 'Earth Revoultion'
+title: 'Earth Revolution'
 date: 2021-02-27
 author: Pakhi
 layout: post
