@@ -1,4 +1,4 @@
 # Pakhi Pant's Learning 
-Pakhi Learning Journey
+Pakhi's Learning and Fun Journey
 
-[https://pradeeppant.com/pakhipant](https://pradeeppant.com/pakhipant)
+[https://pakhipant.com](https://pakhipant.com)
