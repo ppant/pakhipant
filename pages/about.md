@@ -16,7 +16,7 @@ I will take you through my learning ride.
 
 Some of the sites I use for learning and fun.
 
-* [Scrath](https://scratch.mit.edu/)
+* [Scratch](https://scratch.mit.edu/)
 * [Code.org](http://www.code.org/)
 * [flowgorithm](http://www.flowgorithm.org/)
 * [Khan Academy](https://www.khanacademy.org/)
@@ -27,7 +27,6 @@ Some of the sites I use for learning and fun.
 * [LEGO](https://www.lego.com/en-us/kids)
 * [Kids can Code](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg)
 * [Tux Paint](http://www.tuxpaint.org/)
-*  [code.org](https://code.org/)
 * Learning HTML and CSS to make web page
 
 Thanks for visiting.
