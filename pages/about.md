@@ -27,12 +27,13 @@ Some of the sites I use for learning and fun.
 * [LEGO](https://www.lego.com/en-us/kids)
 * [Kids can Code](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg)
 * [Tux Paint](http://www.tuxpaint.org/)
+*  [code.org](https://code.org/)
 * Learning HTML and CSS to make web page
 
 Thanks for visiting.
 
 
-Aug, 2020
+June, 2021
 
 
 
