@@ -21,7 +21,7 @@
 title: Pakhi Pant
 description: >- 
   Pakhi's learning
-theme: minima
+theme: jekyll-theme-architect
 #skin: sunrise
 paginate: 5
 paginate_path: "/blog/page:num/"
